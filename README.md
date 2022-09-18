@@ -6,4 +6,4 @@ git clone https://github.com/ElianEdwin/andree_edwin
 
 cd andree_edwin
 
-python andree_edwin.py
+python andree_edwin_x.py
